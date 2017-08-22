@@ -1,0 +1,1 @@
+g++ serial-cpp/serial.cpp serial-cpp/main.cpp -o serial-cpp/serial-cpp
